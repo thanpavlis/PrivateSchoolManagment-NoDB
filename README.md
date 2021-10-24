@@ -1,5 +1,5 @@
 # PrivateSchoolManagment-NoDB
-It's a console application that manages a private school with main entities students, trainers, courses, assignments and their relationships. User can add own data or import data from data.txt, file. After this can add more and delete. Last user can export data in folder PrivateSchoolDBExports in a .txt file, which filename is current datetime.
+It's a console application that manages a private school with main entities students, trainers, courses, assignments and their relationships. User can add own data or import data from data.txt file. After this can add more and delete. Last user can export data in folder PrivateSchoolDBExports in a .txt file, which filename is current datetime.
 
 ## Screenshots
 <br><h3>Import data from data.txt:</h3>
