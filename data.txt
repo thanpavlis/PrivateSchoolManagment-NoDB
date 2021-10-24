@@ -1,0 +1,54 @@
+course,1,CB13,Java,Part Time,15/02/2021,30/08/2021
+course,2,CB13,C++,Part Time,15/02/2021,15/07/2021
+course,3,CB13,C#,Full Time,15/03/2021,30/09/2021
+course,4,CB13,Python,Full Time,15/06/2020,30/12/2021
+course,5,CB12,Php,Part Time,15/06/2020,30/12/2021
+course,6,CB12,Java,Full Time,15/02/2020,30/12/2021
+trainer,1,Giwrgos,Kalogyrou,Java
+trainer,2,Giannhs,Papadopoulos,C#
+trainer,3,Hara,Gkritsi,Sql-C++
+trainer,4,Kwnstantina,Kopanari,HTML-CSS-JS
+trainer,5,Dimitrhs,Nikoalou,Python-Php
+student,1,Thodoris,Michalopoulos,17/06/1993,4000
+student,2,Nikos,Arxontos,15/08/1990,3000
+student,3,Giannhs,Marinakis,18/12/1992,2500
+student,4,Iwanna,Sanida,13/10/1981,2000
+student,5,Athina,Papadopoulou,05/03/2000,5000
+student,6,Gewrgia,Zotou,11/01/1985,1300
+student,7,Poph,Rhna,15/09/2002,4500
+assignment,1,Sql,Design Part A,30/04/2021 15:30:00,15,85
+assignment,2,Sql,Web Design Part B,31/05/2021 23:59:00,15,85
+assignment,3,Java,Individual Project Part A,30/04/2021 22:00:00,0,100
+assignment,4,Java,Individual Project Part B,28/06/2021 20:00:00,30,70
+assignment,5,HTML-CSS-JS,Design Part A,31/03/2021 22:00:00,0,100
+assignment,6,HTML-CSS-JS,Design Part B,30/04/2021 23:59:00,50,50
+assignment,7,HTML-CSS-JS,Design Part C,31/05/2021 23:00:00,20,80
+assignment,8,HTML-CSS-JS,Design Total,30/06/2021 23:59:00,40,60
+assignment,9,Python,Web Design Project,30/06/2021 21:00:00,80,20
+assignment,10,Php,Web Design Project,30/06/2021 23:59:00,70,30
+assignment,11,C#,Web Design Project Part A,30/07/2021 23:59:00,10,90
+assignment,12,C#,Web Design Project Part B,30/09/2021 23:59:00,45,55
+studentsPerCourse,1,[1-5]
+studentsPerCourse,3,[2-4]
+studentsPerCourse,4,[6-7]
+studentsPerCourse,5,[1-5]
+studentsPerCourse,6,[3]
+trainersPerCourse,1,[1-3-4]
+trainersPerCourse,2,[3]
+trainersPerCourse,3,[2-3-4]
+trainersPerCourse,4,[3-4-5]
+trainersPerCourse,5,[3-4-5]
+trainersPerCourse,6,[1-3-4]
+assignmentsPerCourse,1,[1-2-3-4-5-6-7-8]
+assignmentsPerCourse,2,[1-2-11]
+assignmentsPerCourse,3,[1-2-5-6-7-8-11-12]
+assignmentsPerCourse,4,[1-2-5-6-7-8-9]
+assignmentsPerCourse,5,[1-2-5-6-7-8-10]
+assignmentsPerCourse,6,[1-2-3-4-5-6-7-8]
+assignmentsPerStudent,1,[1-2-3-4-5-10]
+assignmentsPerStudent,2,[1-2-5-11]
+assignmentsPerStudent,3,[1-2-3-4-5-6-7-8]
+assignmentsPerStudent,4,[1-2-5-6-11]
+assignmentsPerStudent,5,[1-2-3-4-5-10]
+assignmentsPerStudent,6,[1-5-6-9]
+assignmentsPerStudent,7,[1-5-6-9]
